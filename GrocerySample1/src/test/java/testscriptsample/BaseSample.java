@@ -15,7 +15,7 @@ public class BaseSample {
   
  
   @BeforeMethod
-  public void initilaizeBrowser() {
+  public void initilaizeBrowsers() {
 	  
 	  
       driver=new ChromeDriver();
